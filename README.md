@@ -1,6 +1,6 @@
 ### Hi, I'm Sümeyra ! 👋| Frontend Developer 👩‍💻 🌠
 
-# 💫 About Me:
+
 🔭 I'm currently working on React...<br>🌱 I'm learning everything new right now...<br>👯 I want to cooperate in projects that will improve myself ...<br>🤔 I'm looking for help to learn every emerging topic ...<br>💬 Ask me about my codes and what I know...<br>⚡ Fun fact: Learning never ends
 
 
